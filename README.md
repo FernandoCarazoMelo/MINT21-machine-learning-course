@@ -1,5 +1,5 @@
 # MINT21-machine-learning-course
-Machine Learning Course for the Máster en Innovación Tecnológica. Madrid 2021. By Fernando Carazo
+Machine Learning Course for the Máster en Innovación Tecnológica. Madrid 2021. By Fernando Carazo.
 
 
 Reference book:
